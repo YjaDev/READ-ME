@@ -11,10 +11,10 @@ Este es mi espacio personal en GitHub, donde compartiré mis proyectos, avances 
 🧠 Me gusta entender cómo funcionan las cosas y resolver problemas.
 
 
-#📂 Algunos de mis proyectos
+# 📂 Algunos de mis proyectos
 |mi-reloj| Práctica básica con HTML, CSS, JavaScript y Git || Huntpin-Store | Página moderna de venta de productos electrónicos (Java, SpringBoot, Swagger)
 
 
-#📫 Cómo contactarme
+# 📫 Cómo contactarme
 📧 Email: lisboayjael@gmail.com
 💼 LinkedIn: Yjael Lisboa
